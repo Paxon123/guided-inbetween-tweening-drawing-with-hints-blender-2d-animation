@@ -1,4 +1,4 @@
-# guided inbetween(tweening) Blender 5 2d animation Addon
+# guided inbetween(tweening) for Blender 5 2d animation Addon
 Frame-aware guided inbetweening system for Grease Pencil.
 
 ## Features
